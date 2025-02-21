@@ -8,5 +8,6 @@ I am a student at the Southern Federal University, majoring in “Modern Applica
 
 *   🌍  I'm based in Rostov-on-Don
 *   ✉️  You can contact me at [tsitskieva\_lina@mail.ru](mailto:tsitskieva_lina@mail.ru)
-*   🧠  I'm learning Kotlin, Java, C++
+*   🧠  I'm learning Kotlin, Java, JavaScript,
+C++
 *   ⚡  Knowledge of the development process, software life cycle, networks, tcp/ip, http, databases, DevTools, Postman, SQL, HTML, CSS, Python
