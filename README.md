@@ -1,7 +1,7 @@
 Hi 👋 My name is Tsitskieva Lina
 ================================
 
-Manual QA
+Frontend Developer / Manual QA
 ---------
 
 I am a student at the Southern Federal University, majoring in “Modern Application Development Methods”. I strive to develop in the advanced IT field and constantly expand my technology stack. I successfully participate in closed university projects, where I am responsible for front-end development and testing.
